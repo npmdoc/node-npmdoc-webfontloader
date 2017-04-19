@@ -1,9 +1,14 @@
-# api documentation for  [webfontloader (v1.6.27)](https://github.com/typekit/webfontloader)  [![npm package](https://img.shields.io/npm/v/npmdoc-webfontloader.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-webfontloader) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-webfontloader.svg)](https://travis-ci.org/npmdoc/node-npmdoc-webfontloader)
+# npmdoc-webfontloader
+
+#### api documentation for  [webfontloader (v1.6.27)](https://github.com/typekit/webfontloader)  [![npm package](https://img.shields.io/npm/v/npmdoc-webfontloader.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-webfontloader) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-webfontloader.svg)](https://travis-ci.org/npmdoc/node-npmdoc-webfontloader)
+
 #### Web Font Loader gives you added control when using linked fonts via @font-face.
 
-[![NPM](https://nodei.co/npm/webfontloader.png?downloads=true)](https://www.npmjs.com/package/webfontloader)
+[![NPM](https://nodei.co/npm/webfontloader.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/webfontloader)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-webfontloader/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-webfontloader_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-webfontloader/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-webfontloader/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-webfontloader/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-webfontloader/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-webfontloader/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-webfontloader/build/screenCapture.npmPackageListing.svg)
 
@@ -21,20 +26,16 @@
     },
     "contributors": [
         {
-            "name": "Ryan Carver",
-            "email": "ryan@typekit.com"
+            "name": "Ryan Carver"
         },
         {
-            "name": "Jeremie Lenfant-engelmann",
-            "email": "jeremiele@google.com"
+            "name": "Jeremie Lenfant-engelmann"
         },
         {
-            "name": "Sean McBride",
-            "email": "sean@typekit.com"
+            "name": "Sean McBride"
         },
         {
-            "name": "Bram Stein",
-            "email": "bram@typekit.com"
+            "name": "Bram Stein"
         }
     ],
     "dependencies": {},
@@ -63,17 +64,14 @@
     "main": "webfontloader.js",
     "maintainers": [
         {
-            "name": "bramstein",
-            "email": "b.l.stein@gmail.com"
+            "name": "bramstein"
         },
         {
-            "name": "pzula",
-            "email": "persa@persazula.com"
+            "name": "pzula"
         }
     ],
     "name": "webfontloader",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/typekit/webfontloader.git"
@@ -84,16 +82,6 @@
     "version": "1.6.27"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module webfontloader](#apidoc.module.webfontloader)
-
-
-
-# <a name="apidoc.module.webfontloader"></a>[module webfontloader](#apidoc.module.webfontloader)
 
 
 
